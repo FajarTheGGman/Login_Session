@@ -1,7 +1,7 @@
 # Login_Session
 Simple Login script to encrypt your program
 
-![alt text](https://github.com/FajarTheGGman/Login_Session/blob/master/.img/Screenshot_2019-03-11-17-57-35-783_com.termux.png)
+
 
 # How to use ?
 <pre>
