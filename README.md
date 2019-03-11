@@ -1,6 +1,8 @@
 # Login_Session
 Simple Login script to encrypt your program
 
+Note : This program only work on termux and linux 
+
 ![alt text](https://github.com/FajarTheGGman/Login_Session/blob/master/.img/IMG_20190311_183420.jpg)
 
 # How to use ?
