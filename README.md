@@ -11,3 +11,12 @@ Simple Login script to encrypt your program
 Done.
 </pre>
 
+# How to change username and password
+<pre>
+1.type nano login.js
+2.change this string to your username and password
+![alt text](https://github.com/FajarTheGGman/Login_Session/blob/master/.img/Screenshot_2019-03-11-17-57-35-783_com.termux-picsay.png)
+3.type ctrl and s to save 
+4.type ctrl x to exit 
+Done.
+</pre>
