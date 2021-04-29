@@ -1,5 +1,3 @@
-//Note : Jangan di recode cuk gw cape buat nya
-//hargai lah programmer² yang cape² buat script nya
 //Copyright© 2019 by Fajar Firdaus
 
 //Module Yang dibutuhkan 
